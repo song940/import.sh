@@ -1,0 +1,4 @@
+
+myip(){
+  echo "ip"
+}
